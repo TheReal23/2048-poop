@@ -1,5 +1,10 @@
-# 4
-A *small* modification of 2048.
+# 2048 - hardcore
+
+Did you play 2048 and think, "man, that was so easy?"
+
+Do you hate yourself?
+
+Here's the 2048 mod everyone has been looking for!
 
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
