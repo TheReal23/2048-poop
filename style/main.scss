@@ -271,7 +271,7 @@ hr {
 
     border-radius: $tile-border-radius;
 
-    background: rgba($tile-color, 0);
+    background: rgba($tile-color, .35);
 
     &:last-child {
       margin-right: 0;

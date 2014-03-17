@@ -221,7 +221,7 @@ hr {
   margin-right: 15px;
   float: left;
   border-radius: 3px;
-  background: rgba(255, 255, 255, 0); }
+  background: rgba(255, 255, 255, 0.35); }
   .grid-cell:last-child {
     margin-right: 0; }
 
@@ -605,7 +605,7 @@ hr {
     margin-right: 10px;
     float: left;
     border-radius: 3px;
-    background: rgba(255, 255, 255, 0); }
+    background: rgba(255, 255, 255, 0.35); }
     .grid-cell:last-child {
       margin-right: 0; }
 
