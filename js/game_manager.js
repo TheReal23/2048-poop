@@ -94,6 +94,10 @@ GameManager.prototype.prepareTiles = function () {
 
 // Move a tile and its representation
 GameManager.prototype.moveTile = function (tile, cell) {
+  var tiles = document.getElementsByClassName('tile-inner');
+  for (var i = 0; i < tiles.length; i++) {
+    tiles[i].style.color = "transparent !important";
+  }
   this.grid.cells[tile.x][tile.y] = null;
   this.grid.cells[cell.x][cell.y] = tile;
   tile.updatePosition(cell);
